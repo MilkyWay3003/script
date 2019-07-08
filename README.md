@@ -1,6 +1,5 @@
 # script
 Скрипт для автоматического заполнения формы данными из файла
-Node.js
-puppeteer
+(Node.js, puppeteer)
 
 
